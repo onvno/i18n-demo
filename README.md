@@ -1,4 +1,10 @@
 # i18n-demo
+#### 安装依赖
+
+```
+npm install
+```
+
 #### demo示例说明
 
 - front:前端渲染示例(`i18next`):
